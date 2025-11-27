@@ -37,13 +37,9 @@
 - Git & GitHub
 
 ## 📫 How to reach me
-- 📧 Email: raouaa@example.com *(replace)*
-- 💼 LinkedIn: [Raouaa Gara](https://linkedin.com/in/raouaa) *(replace)*
+- 📧 Email: raoua.gara@esprit.tn *(replace)*
+- 💼 LinkedIn: [Raouaa Gara](www.linkedin.com/in/raouaa-gara-1a6429252) 
 
-## ⚡ Fun fact
-I love understanding how complex systems work behind the scenes 🚀
-
----
 
 ## 🛠️ Skills & Tech Stack
 
@@ -67,13 +63,11 @@ I love understanding how complex systems work behind the scenes 🚀
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
 ![Prophet](https://img.shields.io/badge/Facebook_Prophet-2A2A2A?style=for-the-badge)
 
-**Skills:** Machine Learning · NLP · Data Preprocessing · Audio Processing · Time Series Analysis · Forecasting · Data Visualization
 
 ### 📊 Data & Analytics
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**Skills:** Power BI · DAX · Data Modeling · Dashboards · Analytics Storytelling · Data Analysis
 
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
@@ -90,14 +84,6 @@ I love understanding how complex systems work behind the scenes 🚀
 ### 🕹 Other / Embedded & Game Dev
 - C++ · Arduino · MikroC · PIC16F77 · Qt Creator · SDL
 
-
-
-
-
-## 📊 GitHub Stats
-![Raouaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raouaagara&show_icons=true&theme=radical)
-
----
 
 ### ✨ Motto
 > "Architecture first. Intelligence next. Code always."
