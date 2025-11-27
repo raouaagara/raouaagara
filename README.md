@@ -1,54 +1,83 @@
-## Hi there 👋
+# 👋 Hi, I'm Raouaa Gara
 
-Software Architecture & Engineering Student | AI & Data Enthusiast
+**Software Architecture & Engineering Student | AI & Data Enthusiast**
 
-I am a Software Architecture & Engineering student with a passion for AI and Data.
-I enjoy learning, exploring new technologies, and connecting with professionals in the tech community.
-Always open to opportunities to grow, collaborate, and share ideas.
+📍 Tunisia  
+🎓 Software Engineering & Architecture Student  
+💼 Looking for a **Remote Internship – Summer 2026 (6 weeks)**
 
+---
 
+## 🔭 I’m currently working on...
+- Software engineering projects using **Java, PHP & Python**
+- AI & data analysis mini-projects
+- Improving system design and software architecture skills
 
+## 🌱 I’m currently learning...
+- Machine Learning & NLP
+- Data analysis & visualization
+- Time series forecasting
+- Clean architecture & design patterns
 
+## 👯 I’m looking to collaborate on...
+- AI & Machine Learning projects
+- Data analysis dashboards
+- Software engineering projects
 
+## 🤔 I’m looking for help with...
+- Real-world ML projects
+- Internship opportunities
+- Advanced software architecture
 
+## 💬 Ask me about...
+- Python & Machine Learning
+- Data Analysis
+- Java & Spring Boot
+- PHP, Symfony & Twig
+- Git & GitHub
 
-## 🛠️ Tech Stack
+## 📫 How to reach me
+- 📧 Email: raouaa@example.com *(replace)*
+- 💼 LinkedIn: [Raouaa Gara](https://linkedin.com/in/raouaa) *(replace)*
 
-### 💻 Software Development
+## ⚡ Fun fact
+I love understanding how complex systems work behind the scenes 🚀
+
+---
+
+## 🛠️ Skills & Tech Stack
+
+### 💻 Programming & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![PHP](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php)
 ![Twig](https://img.shields.io/badge/Twig-8EC63F?style=for-the-badge&logo=twig)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge)
 
----
-
-### 🤖 AI, Data & Analytics
+### 🐍 Python & AI / Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
 ![Prophet](https://img.shields.io/badge/Facebook_Prophet-2A2A2A?style=for-the-badge)
 
----
+**Skills:** Machine Learning · NLP · Data Preprocessing · Audio Processing · Time Series Analysis · Forecasting · Data Visualization
 
-### 📊 Data Skills
-- Data preprocessing & cleaning
-- Data modeling
-- Machine learning models
-- Time series analysis & forecasting
-- NLP basics
-- Data visualization
-- Analytics storytelling
-- DAX (Power BI)
+### 📊 Data & Analytics
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
+**Skills:** Power BI · DAX · Data Modeling · Dashboards · Analytics Storytelling · Data Analysis
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-336791?style=for-the-badge&logo=oracle)
 
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -58,8 +87,17 @@ Always open to opportunities to grow, collaborate, and share ideas.
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
 
----
+### 🕹 Other / Embedded & Game Dev
+- C++ · Arduino · MikroC · PIC16F77 · Qt Creator · SDL
+
+
+
+
 
 ## 📊 GitHub Stats
-
 ![Raouaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raouaagara&show_icons=true&theme=radical)
+
+---
+
+### ✨ Motto
+> "Architecture first. Intelligence next. Code always."
