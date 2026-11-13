@@ -10,8 +10,8 @@
 ---
 
 ## 🔭 I'm currently working on...
-- AI agents and **MCP (Model Context Protocol)** integrations on the **Intelligo** platform at MindState AI
 - Full-stack applications with **Angular, Spring Boot, React & NestJS**
+- AI agents and **MCP (Model Context Protocol)** projects
 - Improving system design and software architecture skills
 
 ## 🌱 I'm currently learning...
